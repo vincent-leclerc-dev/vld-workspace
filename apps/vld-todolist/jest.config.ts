@@ -1,8 +1,8 @@
 export default {
-  displayName: 'todolist',
+  displayName: 'vld-todolist',
   preset: '../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/apps/todolist',
+  coverageDirectory: '../../coverage/apps/vld-todolist',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',
