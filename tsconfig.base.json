@@ -18,7 +18,6 @@
     "skipDefaultLibCheck": true,
     "esModuleInterop": true,
     "strictPropertyInitialization": false,
-    "suppressImplicitAnyIndexErrors": true,
     "noImplicitReturns": false,
     "baseUrl": ".",
     "allowJs": true,
